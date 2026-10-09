@@ -1,4 +1,4 @@
-# Trabajo Práctico de Programación Orientada a Objetos - Unidad IV
+# T-P Programación Orientada a Objetos - Unidad IV
 *Alumno:* Joaquin Luciano Peralta Enciso
 *Universidad:* Universidad Americana
 *Materia:* Optativo I (Python Lenguaje I)
